@@ -1,4 +1,5 @@
 require("@nomiclabs/hardhat-etherscan")
+require("@nomiclabs/hardhat-ethers")
 require("@nomiclabs/hardhat-etherscan")
 require("hardhat-deploy")
 require("hardhat-gas-reporter")
