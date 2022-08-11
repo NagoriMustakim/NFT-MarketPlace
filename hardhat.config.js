@@ -29,7 +29,7 @@ module.exports = {
       accounts: [PRIVATE_KEY],
       chainId: 4,
     },
-    localnetwork: {
+    localhost: {
       url: "http://127.0.0.1:8545/",
       chainId: 31337
     }

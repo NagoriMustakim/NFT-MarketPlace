@@ -3,7 +3,7 @@ networkConfig = {
         name: "rinkeby"
     },
     31337: {
-        name: "localnetwork"
+        name: "localhost"
     }
 }
 const developmentChains = ["hardhat", "localhost"]
